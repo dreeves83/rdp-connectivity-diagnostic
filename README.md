@@ -89,11 +89,11 @@ Attempt   4 | SUCCESS |    88 ms
 
 ## Failure Pattern Example
 
-![Failure Pattern](images/rdp-connectivity-diagnostic.png)
+![Failure Pattern](rdp-connectivity-diagnostic1.png)
 
 ## Script In Use During Troubleshooting
 
-![Script In Use](images/rdp-connectivity-diagnostic2.png)
+![Script In Use](rdp-connectivity-diagnostic2.png)
 
 ---
 
